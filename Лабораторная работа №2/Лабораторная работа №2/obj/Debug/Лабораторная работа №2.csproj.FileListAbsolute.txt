@@ -1,0 +1,7 @@
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\bin\Debug\Лабораторная работа №2.exe.config
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\bin\Debug\Лабораторная работа №2.exe
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\bin\Debug\Лабораторная работа №2.pdb
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\obj\Debug\Лабораторная работа №2.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\obj\Debug\Лабораторная работа №2.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\obj\Debug\Лабораторная работа №2.exe
+C:\Users\xiaomi\Desktop\СИАОД\Лабораторная работа №2\Лабораторная работа №2\obj\Debug\Лабораторная работа №2.pdb
